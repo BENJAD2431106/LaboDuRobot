@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\LaboDuRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7FB557-FC55-4617-B365-04937F0BECD3}|..\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT.csproj|c:\\users\\2431106\\documents\\code\\prog2\\labo 10-le robot\\labo 10-le robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7FB557-FC55-4617-B365-04937F0BECD3}|..\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT.csproj|c:\\users\\2431106\\documents\\code\\prog2\\labo 10-le robot\\labo 10-le robot\\robotdemolit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BA2A52-C05B-4E7A-B154-BB8696BB6FEA}|Labo10\\Labo10.csproj|c:\\users\\2431106\\documents\\code\\prog2\\labodurobot\\labo10\\groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BA2A52-C05B-4E7A-B154-BB8696BB6FEA}|Labo10\\Labo10.csproj|solutionrelative:labo10\\groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D19FEB-2741-4281-B55B-62C9BCAE4115}|LAB10-PARTIE2\\LAB10-PARTIE2.csproj|c:\\users\\2431106\\documents\\code\\prog2\\labodurobot\\lab10-partie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D19FEB-2741-4281-B55B-62C9BCAE4115}|LAB10-PARTIE2\\LAB10-PARTIE2.csproj|solutionrelative:lab10-partie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\Program.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\Program.cs",
+              "RelativeToolTip": "..\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:45:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotDemolit.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\RobotDemolit.cs",
+              "RelativeDocumentMoniker": "..\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\RobotDemolit.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\RobotDemolit.cs",
+              "RelativeToolTip": "..\\Labo 10-LE ROBOT\\Labo 10-LE ROBOT\\RobotDemolit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:45:21.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Groupe.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\LaboDuRobot\\Labo10\\Groupe.cs",
+              "RelativeDocumentMoniker": "Labo10\\Groupe.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\LaboDuRobot\\Labo10\\Groupe.cs",
+              "RelativeToolTip": "Labo10\\Groupe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:45:20.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\LaboDuRobot\\LAB10-PARTIE2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB10-PARTIE2\\Program.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\LaboDuRobot\\LAB10-PARTIE2\\Program.cs",
+              "RelativeToolTip": "LAB10-PARTIE2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:45:14.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
